@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Prachi Prachi Garg</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on **Food Management App**
+- 🔭 I’m currently working on **MVC projects**
 
 - 💬 Ask me about **I'm a great learner of programming**
 
